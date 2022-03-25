@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TerrniT/react-portfolio-page.git/static/css/main.b2b547f6.css",
-    "main.js": "/TerrniT/react-portfolio-page.git/static/js/main.b6dff394.js",
-    "static/media/me.png": "/TerrniT/react-portfolio-page.git/static/media/me.0bf88e2a88aacc94b450.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/TerrniT/react-portfolio-page.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/travis-yellow-bg.png": "/TerrniT/react-portfolio-page.git/static/media/travis-yellow-bg.ab960e9e709bc8a7c285.png",
-    "static/media/fontawesome-webfont.eot": "/TerrniT/react-portfolio-page.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/TerrniT/react-portfolio-page.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/TerrniT/react-portfolio-page.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/TerrniT/react-portfolio-page.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/me-about.jpg": "/TerrniT/react-portfolio-page.git/static/media/me-about.f0b8c1373f9d544adf6b.jpg",
-    "index.html": "/TerrniT/react-portfolio-page.git/index.html",
-    "static/media/portfolio.pdf": "/TerrniT/react-portfolio-page.git/static/media/portfolio.31d6cfe0d16ae931b73c.pdf",
-    "main.b2b547f6.css.map": "/TerrniT/react-portfolio-page.git/static/css/main.b2b547f6.css.map",
-    "main.b6dff394.js.map": "/TerrniT/react-portfolio-page.git/static/js/main.b6dff394.js.map"
+    "main.css": "/terrnit/react-portfolio.git/static/css/main.7fe8be27.css",
+    "main.js": "/terrnit/react-portfolio.git/static/js/main.3f57fb8f.js",
+    "static/media/me.png": "/terrnit/react-portfolio.git/static/media/me.0bf88e2a88aacc94b450.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/terrnit/react-portfolio.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/travis-yellow-bg.png": "/terrnit/react-portfolio.git/static/media/travis-yellow-bg.ab960e9e709bc8a7c285.png",
+    "static/media/fontawesome-webfont.eot": "/terrnit/react-portfolio.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/terrnit/react-portfolio.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/terrnit/react-portfolio.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/terrnit/react-portfolio.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/me-about.jpg": "/terrnit/react-portfolio.git/static/media/me-about.f0b8c1373f9d544adf6b.jpg",
+    "index.html": "/terrnit/react-portfolio.git/index.html",
+    "static/media/portfolio.pdf": "/terrnit/react-portfolio.git/static/media/portfolio.31d6cfe0d16ae931b73c.pdf",
+    "main.7fe8be27.css.map": "/terrnit/react-portfolio.git/static/css/main.7fe8be27.css.map",
+    "main.3f57fb8f.js.map": "/terrnit/react-portfolio.git/static/js/main.3f57fb8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b547f6.css",
-    "static/js/main.b6dff394.js"
+    "static/css/main.7fe8be27.css",
+    "static/js/main.3f57fb8f.js"
   ]
 }
